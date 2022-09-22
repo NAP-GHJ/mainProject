@@ -1,1 +1,1 @@
-libs/** filter=git-crypt diff=git-crypt
+libs/lib1/** filter=git-crypt diff=git-crypt
