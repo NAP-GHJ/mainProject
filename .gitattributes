@@ -1,2 +1,3 @@
 libs/lib1/** filter=git-crypt diff=git-crypt
 Hello.java filter=git-crypt diff=git-crypt
+src/*.java filter=git-crypt diff=git-crypt
